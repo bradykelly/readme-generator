@@ -1,3 +1,10 @@
+# _THIS IS A FORK_ OF the `kefranabg/readme-md-generator` repo at
+* [https://github.com/giannifontanot/readme-generator/](https://github.com/giannifontanot/readme-generator/)
+* Please visit that repo for up to date and canonical information.
+
+## Why fork?
+This could be a very useful tool, especially in situations where documentation is non-existent for several applications and components, but 
+
 
 ![Status Stable](https://img.shields.io/badge/Status-Stable-blue)
 [![MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
